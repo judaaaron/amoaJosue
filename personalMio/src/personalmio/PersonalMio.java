@@ -268,6 +268,10 @@ public class PersonalMio {
                     System.out.println(" opcion incorrecta");
                     System.out.println();
             }
+            
+            for (int i = 0; i < 10; i++) {
+                System.out.println(i);
+            }
         }
 
     }
